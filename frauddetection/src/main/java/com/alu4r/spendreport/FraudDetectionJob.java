@@ -1,4 +1,4 @@
-package com.baidu.spendreport;
+package com.alu4r.spendreport;
 
 import org.apache.flink.streaming.api.datastream.DataStream;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
